@@ -1,0 +1,10 @@
+1231242354354657
+<<<<<<< HEAD
+
+adasdasdas
+
+=======
+
+saadsasdasd
+
+>>>>>>> 03ff019... qa.txt
